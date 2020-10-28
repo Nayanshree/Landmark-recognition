@@ -33,7 +33,7 @@ While performing EDA on the training dataset, I observed:
 
 # Note
 1. The output of the code is not displayed as this makes the file large and it cannot get uploaded on github.
-2. Kaggle link: https://www.kaggle.com/nayanshree09/landmark-recognition 
+
 
 
 
